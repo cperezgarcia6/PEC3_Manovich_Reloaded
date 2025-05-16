@@ -11,8 +11,9 @@
 
 ----
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png)
-
+|BeReal|Google Earth VR|
+|--|--|
+|![enter image description here](https://i.blogs.es/b00764/bereal-red-social-4/1366_2000.jpg)|![enter image description here](https://images.squarespace-cdn.com/content/v1/62755d008685202ab279c8ef/1697586140347-QHZ2YA0O3SSUBF7QK37P/GOOGLE-EARTH.png)|
 
 
 
@@ -82,10 +83,31 @@ Independientemente de sus usos educativos o informativos, lo que realmente desta
 
 ## Valoración
 
+Después de analizar estos dos casos me queda claro que la hibridación no es solo una mezcla de tecnologías. Es una manera de ver cómo lo digital puede cambiar por completo nuestras experiencias cotidianas. Crear algo nuevo, con su lenguaje y su impacto.
+
+BeReal no deja de ser una red social, pero el simple hecho de que solo puedas publicar una foto al día, en un momento aleatorio, lo cambia todo. **No hay filtros ni hay segundas oportunidades. Solo tú y tu día a día mostrándote tal y como eres.**
+
+Google Earth VR me ha resultado fascinante. Literalmente puedes dar la vuelta al mundo desde tu salón. Y eso es algo **emocionante**. Hay muchos lugares que siempre has querido conocer y tienes una gran oportunidad. **Te hace sentir muy conectado.**
+
+Me ha llamado la atención que, aunque usan tecnologías complejas de entender para un simple mortal, son aplicaciones **cercanas, personales y humanas.** En mi opinión, eso es lo que hace que funcionen tan bien.
+
+**La hibridación** la vivimos sin darnos cuenta cada vez que usamos una app, un mapa interactivo o una red social diferente.
+
+Creo que estos dos casos demuestran muy bien cómo el software, puede dar lugar a formas nuevas de relacionarnos, de compartir y de sentir.
+
 
 ## Referencias y Bibliografía
 
+Manovich, L. (2013). El software toma el mando. Editorial UOC.
 
-----
+Gea, Miguel (2022). Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto. UOC. https://github.com/mgea/CCpapers/tree/main/MetodologiaCrowdsourcing
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+McMillan, Robert (2012). "Lord of the Files: How GitHub Tamed Free Software (And More)".
+
+Adell, Ferran (2024). Fundamentos y evolución de la multimedia. UOC. https://cultura-digital.aula.uoc.edu/es/
+
+OpenAI. (2024). Utilización de ChatGPT para realización de trabajos académicos. Se hace uso limitado como se indica en la propia PEC. https://openaccess.uoc.edu/bitstream/10609/148823/2/U2_17_GuiaCitarIA_ESP.pdf
+
+Montvr. https://images.squarespace-cdn.com/content/v1/62755d008685202ab279c8ef/1697586140347-QHZ2YA0O3SSUBF7QK37P/GOOGLE-EARTH.png
+
+Xatakamovil. (2021). https://www.xatakamovil.com/aplicaciones/be-real-red-social-imprevisible-que-te-da-dos-minutos-para-compartir-nuevo-contenido
