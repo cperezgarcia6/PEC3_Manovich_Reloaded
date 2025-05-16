@@ -1,8 +1,5 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-## Recurso de aprendizaje de Cultura Digital 
-
-
 **Autor:** César Pérez García
 
 **Asignatura:** Cultura Digital - UOC
