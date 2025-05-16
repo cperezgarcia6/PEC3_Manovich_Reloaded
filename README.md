@@ -6,7 +6,6 @@
 
 **Fecha:** Mayo 2025
 
-#
 
 |BeReal|Google Earth VR|
 |--|--|
